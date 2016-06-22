@@ -1,0 +1,10 @@
+{
+  "name": "express-stormpath-demo",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "*"
+  }
+}
